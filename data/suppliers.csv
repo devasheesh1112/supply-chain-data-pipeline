@@ -1,0 +1,51 @@
+supplier_id,supplier_name,country,delivery_days,quality_rating
+S001,"Rodriguez, Figueroa and Sanchez",Mexico,5,3.05
+S002,Doyle Ltd,Germany,9,3.45
+S003,"Mcclain, Miller and Henderson",Mexico,5,4.35
+S004,Davis and Sons,Japan,4,4.18
+S005,"Guzman, Hoffman and Baldwin",India,2,3.19
+S006,"Gardner, Robinson and Lawrence",USA,18,4.2
+S007,Blake and Sons,Japan,8,4.43
+S008,"Henderson, Ramirez and Lewis",Mexico,19,3.84
+S009,Garcia-James,China,20,3.56
+S010,Abbott-Munoz,India,26,4.61
+S011,Blair PLC,Mexico,15,3.68
+S012,Dudley Group,USA,8,4.91
+S013,Arnold Ltd,Germany,5,3.19
+S014,"Mcclure, Ward and Lee",India,13,4.69
+S015,Williams and Sons,Japan,10,4.61
+S016,Galloway-Wyatt,Mexico,16,4.07
+S017,James Group,China,4,4.1
+S018,"Flowers, Martin and Kelly",Mexico,21,4.77
+S019,"Adams, Zuniga and Wong",Germany,20,3.38
+S020,"Reid, Ferguson and Sanchez",India,3,4.32
+S021,Gray-Mayo,Germany,4,4.71
+S022,"Watts, Robinson and Nguyen",India,14,3.56
+S023,Perez Inc,Mexico,28,3.73
+S024,Morales-Jones,Germany,13,3.42
+S025,"Walter, Edwards and Rios",Germany,24,4.87
+S026,Wilkerson-Day,Mexico,4,4.22
+S027,Baker and Sons,USA,19,4.46
+S028,"Hoffman, Baker and Richards",USA,16,3.76
+S029,"Ross, Robinson and Bright",Mexico,24,4.11
+S030,"Snyder, Campos and Callahan",Mexico,12,4.69
+S031,Burton Ltd,India,9,4.64
+S032,Carlson-Cruz,Germany,14,3.54
+S033,"Ferrell, Rice and Maddox",USA,20,4.75
+S034,Frazier Inc,Germany,8,4.31
+S035,"Dyer, Potter and Mack",China,30,4.83
+S036,Rodriguez-Graham,China,6,3.53
+S037,Smith-Bowen,USA,25,4.12
+S038,"Baker, Mason and White",Germany,25,4.17
+S039,Harrell LLC,Japan,14,3.72
+S040,"Romero, Gonzalez and Brooks",USA,18,3.99
+S041,Ryan PLC,India,29,3.22
+S042,George Group,Mexico,7,4.58
+S043,Rodriguez LLC,China,21,3.13
+S044,Allen-Allen,China,21,4.99
+S045,"Arroyo, Miller and Tucker",Japan,10,4.94
+S046,Spence PLC,India,23,4.44
+S047,Anderson Group,Mexico,30,4.07
+S048,"Martin, Rose and Obrien",Germany,26,4.28
+S049,Hickman Ltd,India,11,3.87
+S050,"Harris, Collins and Carney",China,2,4.91
