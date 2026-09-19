@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files
+*.tmp
+*.log
+
+# PySpark
+.sparkStaging/
+
+# Test / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Secrets
+*.pem
+*.key
