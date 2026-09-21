@@ -83,6 +83,19 @@ def main():
 
     output_path = "data/processed/orders"
 
+    print("\nConverting Spark DataFrame to Pandas...")
+
+    cleaned_orders = orders.toPandas()
+
+    print("Pandas rows:", len(cleaned_orders))
+    cleaned_orders.to_csv(
+    output_path,
+    index=False
+    )
+    print("\nCleaned orders saved to:")
+    print(output_path)
+
+    '''
     (
         orders.write
         .mode("overwrite")
@@ -92,7 +105,7 @@ def main():
 
     print("\nCleaned orders saved to:")
     print(output_path)
-
+    '''
 
 
 if __name__ == "__main__":
