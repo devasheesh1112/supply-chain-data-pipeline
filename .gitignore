@@ -37,3 +37,6 @@ htmlcov/
 # Secrets
 *.pem
 *.key
+
+# Generated processed data
+data/processed/
