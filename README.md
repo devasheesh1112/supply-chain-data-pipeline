@@ -755,6 +755,6 @@ Potential improvements for the pipeline include:
 GitHub:  
 https://github.com/devasheesh1112
 
-## Dashboarddddddddd
+## Dashboard
 
 ![Supply Chain Dashboard](docs/dashboard.PNG)
